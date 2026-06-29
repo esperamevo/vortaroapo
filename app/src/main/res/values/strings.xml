@@ -22,4 +22,5 @@
     <string name="notification_channel_description">保持词典悬浮窗运行</string>
     <string name="notification_title">词典悬浮窗运行中</string>
     <string name="notification_text">点击可查询 vortaro.cn</string>
+    <string name="paste_button">粘贴</string>
 </resources>
