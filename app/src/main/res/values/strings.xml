@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">词典悬浮窗</string>
+    <string name="float_started_message">词典悬浮窗已启动\n请在其他应用界面查看悬浮球</string>
+    <string name="stop_float_button">停止悬浮窗</string>
+    <string name="search_hint">输入单词查询</string>
+    <string name="search_button">查询</string>
+    <string name="open_in_browser_button">浏览器打开</string>
+    <string name="float_ball_content_description">词典悬浮球</string>
+    <string name="permission_dialog_title">需要悬浮窗权限</string>
+    <string name="permission_dialog_message">词典悬浮窗需要"显示在其他应用上层"权限，请在设置中开启。</string>
+    <string name="go_to_settings">去开启</string>
+    <string name="exit">退出</string>
+    <string name="permission_granted_toast">权限已获取，正在启动悬浮窗...</string>
+    <string name="permission_denied_toast">未授予权限，应用无法使用悬浮窗功能</string>
+    <string name="float_stopped_toast">悬浮窗已停止</string>
+    <string name="permission_revoked_toast">悬浮窗权限已取消，请重新授权</string>
+    <string name="enter_word_toast">请输入要查询的单词</string>
+    <string name="open_dict_failed_toast">无法打开词典网站</string>
+    <string name="open_browser_failed_toast">无法打开浏览器</string>
+    <string name="notification_channel_name">词典悬浮窗</string>
+    <string name="notification_channel_description">保持词典悬浮窗运行</string>
+    <string name="notification_title">词典悬浮窗运行中</string>
+    <string name="notification_text">点击可查询 vortaro.cn</string>
+</resources>
